@@ -11,6 +11,12 @@ def dprint(*args, **kwargs):
         print(*args, **kwargs)
 
 
+"""
+https://blog.miguelgrinberg.com/post/video-streaming-with-flask/page/8
+https://www.antipope.org/charlie/old/attic/webbook/ch3http/part7.html
+"""
+
+
 def get_frame(video):
     while True:
         success: bool
