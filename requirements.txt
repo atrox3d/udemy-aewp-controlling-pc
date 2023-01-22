@@ -1,7 +1,7 @@
 # opencv-python
 
 # use this version to use autocomplete in pycharm
-opencv-python
+opencv-python==4.5.5.64
 
 flask
 PyAutoGUI
